@@ -1,0 +1,10 @@
+D:\Домашка\Курсова\Курсова\Курсова\bin\Debug\Курсова.exe
+D:\Домашка\Курсова\Курсова\Курсова\bin\Debug\Курсова.pdb
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.csprojAssemblyReference.cache
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.Form1.resources
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.Properties.Resources.resources
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.csproj.GenerateResource.cache
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.csproj.CoreCompileInputs.cache
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.exe
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.pdb
+D:\Домашка\Курсова\Курсова\Курсова\obj\Debug\Курсова.Form2.resources
